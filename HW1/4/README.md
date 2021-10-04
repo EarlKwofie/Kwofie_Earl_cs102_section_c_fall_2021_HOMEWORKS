@@ -25,8 +25,12 @@ PSEUDO CODE
 					{
 						for(b =  the current index to 1 )
 						{	
-							if( the char at index b is less than b-1 )
-							swap
+							do
+								if( the char at index b is less than b-1 )
+								swap
+								else if the are equal
+							continue do loop
+								
 						}
 					}
 					
