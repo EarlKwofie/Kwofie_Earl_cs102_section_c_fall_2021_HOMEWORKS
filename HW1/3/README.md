@@ -12,9 +12,9 @@ Step 7: Prints the results
 
 PSUEDOCODE
 
-FUNCTION 3 M's
-{
-	Get the 5 inputs 
+	FUNCTION 3 M's
+	{
+		Get the 5 inputs 
 		
 		for( starting from index i =  1 to the end of the array )
 			{
