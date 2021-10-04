@@ -45,5 +45,5 @@ PSUEDOCODE
 		}
 		
 		mean = the total sum / the length of the input array (5) 
-}
+	}
 
