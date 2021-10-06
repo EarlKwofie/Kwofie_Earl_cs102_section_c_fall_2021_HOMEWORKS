@@ -1,9 +1,9 @@
 Banner script: based off the lettering from https://patorjk.com/
 
-Step 1: Recieves an input string (up to 100 characters, excluding spaces)
-Step 2: Sets them to be uppercase letters
-Step 3: Per Row, determines the combination of HASH characters based on the char recursively
-Step 4: Prints HASH character pattern and a space between 
+Step 1: Recieves an input string (up to 100 characters, excluding spaces)  
+Step 2: Sets them to be uppercase letters  
+Step 3: Per Row, determines the combination of HASH characters based on the char recursively  
+Step 4: Prints HASH character pattern and a space between   
 
 
 
